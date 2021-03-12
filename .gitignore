@@ -119,4 +119,7 @@ dist
 # Mac OS control file
 .DS_Store
 
+# vscode workspace settings
+.vscode
+
 # End of https://www.toptal.com/developers/gitignore/api/node
